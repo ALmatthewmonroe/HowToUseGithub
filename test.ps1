@@ -1,0 +1,1 @@
+$date = get-date -format MMddyyyy
